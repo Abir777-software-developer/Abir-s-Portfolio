@@ -21,6 +21,8 @@ import {
   tesla,
   shopify,
   carrent,
+  Whispr,
+  Linkedin,
   jobit,
   tripguide,
   threejs,
@@ -186,7 +188,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: Linkedin,
     source_code_link: "https://github.com/",
   },
   {
@@ -215,7 +217,7 @@ const projects = [
         color: "black-text-gradient",
       },
     ],
-    image: jobit,
+    image: Whispr,
     source_code_link: "https://github.com/",
   },
 ];
