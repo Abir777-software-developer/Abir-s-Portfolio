@@ -189,7 +189,7 @@ const projects = [
       },
     ],
     image: Linkedin,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Abir777-software-developer/Linkedin",
   },
   {
     name: "Real time chat Application",
@@ -218,7 +218,7 @@ const projects = [
       },
     ],
     image: Whispr,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Abir777-software-developer/Whispr",
   },
 ];
 
